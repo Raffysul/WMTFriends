@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WMTFriends</string>
+    <string name="friends_image" />
+    <string name="names" />
 </resources>
